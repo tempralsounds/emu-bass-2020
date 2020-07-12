@@ -1,6 +1,6 @@
 # EMU Bass July 2020
 
-This sample pack contains various bass samples that have been distorted and modulated in the EMU sampler via gain, resampling and filter modulation.  A few may have been routed hot through a Xone 96, with some with crunch and additional filtering applied.
+This sample pack contains various bass samples that have been distorted and modulated in the EMU sampler via gain, resampling and filter modulation.  A few may have been routed hot through a Xone 96, with crunch and additional filtering applied.
 
 ## Sample name abbreviations
 
